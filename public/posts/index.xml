@@ -2,32 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Acimet SAS</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on Acimet SAS</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Dec 2024 22:10:24 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/2/</link>
-      <pubDate>Wed, 11 Dec 2024 22:10:24 +0200</pubDate>
-      <guid>http://localhost:1313/posts/2/</guid>
-      <description>&lt;p&gt;kljlkjlkjflkas&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/3/</link>
-      <pubDate>Wed, 11 Dec 2024 22:10:24 +0200</pubDate>
-      <guid>http://localhost:1313/posts/3/</guid>
-      <description>&lt;h1 id=&#34;proyecto&#34;&gt;Proyecto&lt;/h1&gt;&#xA;&lt;p&gt;bla bla bla&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 11 Dec 2024 22:10:24 +0200</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;kljlkjlkjf&lt;/p&gt;&#xA;&lt;p&gt;lkas&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
