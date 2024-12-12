@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
+featured_image: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Gallus_gallus_domesticus_-_Vogelpark_Steinen_03.jpg'
 menus: main
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
