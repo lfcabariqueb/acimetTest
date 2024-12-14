@@ -17,7 +17,6 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
 contentDir = "content/es"
 languageCode = 'es-CO'
 weight = 1
-title = "Ananke Es"
 
 [sitemap]
 changefreq = "monthly"
