@@ -1,8 +1,8 @@
 ---
-title: "Ananke: Un tema para Hugo"
+title: "Acimet SAS"
 
-description: "esta es una descripcion en _index.md"
+description: "Arquitectura, contrucción e ingeniería metálica."
 cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
-Bienvenido a ananke en español.
+Somos una empresa con 30 años de experiencia.
